@@ -1,4 +1,4 @@
-### Hi there 👋 Am Aliyu Abdulrazak,  a frontend Engineer 👨‍💻👨‍💻 
+### Hi there 👋 Am Aliyu Abdulrazak,  a Software developer 👨‍💻👨‍💻 
 
 - 🔭 I’m currently working on building group projects with friends
 - 🌱 & currently learning  javascript DSA also navigating the opensource space
