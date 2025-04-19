@@ -8,3 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love movies series 😍😍
 
+ [![Abdulrazaq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Razak002&theme=cobalt)](https://git.io/praveenscience) 
+
+![Abdulrazaq's github stats](https://github-readme-stats.vercel.app/api?username=Razak002&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&rank_icon=github) | ![Abdulraxaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Razak002&theme=cobalt&card_width=500) |
+| --- | --- |
+
